@@ -415,6 +415,39 @@
       "formato": "F3-longo",
       "gancho": "Nunca fure a parede sem ver isso",
       "lote": "lote4"
+    },
+    {
+      "id": "o_rachadura",
+      "tipo": "reel",
+      "video": "videos/o_rachadura.mp4",
+      "legenda": "Parede que racha tem um motivo. Manda para quem construiu ou vai construir.\n\n#rachadura #construcao #obra #casa #parede",
+      "status": "agendado",
+      "agendado_para": "2026-11-24T12:30:00-03:00",
+      "formato": "F3-longo",
+      "gancho": "Por que a parede racha?",
+      "lote": "lote4"
+    },
+    {
+      "id": "o_goteira",
+      "tipo": "reel",
+      "video": "videos/o_goteira.mp4",
+      "legenda": "Laje que goteja quase sempre tem o mesmo erro. Manda para quem tem laje.\n\n#goteira #laje #construcao #obra #casa",
+      "status": "agendado",
+      "agendado_para": "2026-11-24T14:00:00-03:00",
+      "formato": "F3-longo",
+      "gancho": "Por que a laje goteja?",
+      "lote": "lote4"
+    },
+    {
+      "id": "o_disjuntor",
+      "tipo": "reel",
+      "video": "videos/o_disjuntor.mp4",
+      "legenda": "Fio fino demais pode pegar fogo dentro da parede. Manda para quem vai reformar.\n\n#eletrica #construcao #obra #casa #seguranca",
+      "status": "agendado",
+      "agendado_para": "2026-11-24T16:00:00-03:00",
+      "formato": "F3-longo",
+      "gancho": "Por que o fio esquenta na parede?",
+      "lote": "lote4"
     }
   ]
 }
