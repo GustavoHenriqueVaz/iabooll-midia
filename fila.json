@@ -26,8 +26,10 @@
       "tipo": "reel",
       "video": "videos/03-telhado.mp4",
       "legenda": "O vento não empurra o telhado, ele puxa para cima. É por isso que telha voa.\n\n#telhado #construcao #obra #telhas #reforma",
-      "status": "agendado",
-      "agendado_para": "2026-11-19T20:45:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-19T20:45:00-03:00",
+      "instagram_id": "18093897257241665",
+      "publicado_em": "2026-11-19T20:46:16-03:00"
     },
     {
       "id": "obra-04-portao",
