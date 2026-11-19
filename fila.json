@@ -1,0 +1,165 @@
+{
+  "_comentario": "fila da @iabooll",
+  "posts": [
+    {
+      "id": "obra-01-muro",
+      "tipo": "reel",
+      "video": "videos/01-muro.mp4",
+      "legenda": "Tijolo direto na terra vira entulho na primeira chuva. O muro de verdade esconde 4 peças.\n\n#muro #construcao #obra #reforma #viga",
+      "status": "agendado",
+      "agendado_para": "2026-11-19T19:15:00-03:00"
+    },
+    {
+      "id": "obra-02-janela",
+      "tipo": "reel",
+      "video": "videos/02-janela.mp4",
+      "legenda": "Toda janela sem essas duas vigas racha nos cantos. Olha a sua.\n\n#janela #construcao #obra #rachadura #reforma",
+      "status": "agendado",
+      "agendado_para": "2026-11-19T20:00:00-03:00"
+    },
+    {
+      "id": "obra-03-telhado",
+      "tipo": "reel",
+      "video": "videos/03-telhado.mp4",
+      "legenda": "O vento não empurra o telhado, ele puxa para cima. É por isso que telha voa.\n\n#telhado #construcao #obra #telhas #reforma",
+      "status": "agendado",
+      "agendado_para": "2026-11-19T20:45:00-03:00"
+    },
+    {
+      "id": "obra-04-portao",
+      "tipo": "reel",
+      "video": "videos/04-portao.mp4",
+      "legenda": "Portão de ferro em pilar de tijolo tem dia marcado para cair.\n\n#portao #construcao #obra #pilar #reforma",
+      "status": "agendado",
+      "agendado_para": "2026-11-19T21:30:00-03:00"
+    },
+    {
+      "id": "obra-05-laje",
+      "tipo": "reel",
+      "video": "videos/05-laje.mp4",
+      "legenda": "Concreto sozinho não segura teto. Esses 4 passos seguram.\n\n#laje #construcao #obra #concreto #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-19T22:15:00-03:00"
+    },
+    {
+      "id": "obra-06-escada",
+      "tipo": "reel",
+      "video": "videos/06-escada.mp4",
+      "legenda": "Seu pé decora a altura do degrau. Um degrau diferente e é tombo.\n\n#escada #construcao #obra #arquitetura #reforma",
+      "status": "agendado",
+      "agendado_para": "2026-11-20T08:00:00-03:00"
+    },
+    {
+      "id": "obra-07-caixa",
+      "tipo": "reel",
+      "video": "videos/07-caixa.mp4",
+      "legenda": "Mil litros pesam uma tonelada. Nunca em cima do forro.\n\n#caixadagua #construcao #obra #encanamento #reforma",
+      "status": "agendado",
+      "agendado_para": "2026-11-20T10:30:00-03:00"
+    },
+    {
+      "id": "obra-08-quintal",
+      "tipo": "reel",
+      "video": "videos/08-quintal.mp4",
+      "legenda": "Quintal retinho vira piscina de dengue. Dois centímetros resolvem.\n\n#quintal #construcao #obra #piso #reforma",
+      "status": "agendado",
+      "agendado_para": "2026-11-20T12:30:00-03:00"
+    },
+    {
+      "id": "obra-09-churras",
+      "tipo": "reel",
+      "video": "videos/09-churras.mp4",
+      "legenda": "Tijolo comum estoura no fogo. Por dentro tem que ser outro.\n\n#churrasqueira #construcao #obra #churrasco #reforma",
+      "status": "agendado",
+      "agendado_para": "2026-11-20T15:00:00-03:00"
+    },
+    {
+      "id": "obra-10-cisterna",
+      "tipo": "reel",
+      "video": "videos/10-cisterna.mp4",
+      "legenda": "Cada chuva pode encher um tanque de água de graça no seu quintal.\n\n#cisterna #construcao #obra #aguadachuva #sustentabilidade",
+      "status": "agendado",
+      "agendado_para": "2026-11-20T17:30:00-03:00"
+    },
+    {
+      "id": "obra-11-horta",
+      "tipo": "reel",
+      "video": "videos/11-horta.mp4",
+      "legenda": "O mesmo quintal que dá mato pode dar comida o ano todo.\n\n#horta #hortaemcasa #canteiro #jardinagem #construcao",
+      "status": "agendado",
+      "agendado_para": "2026-11-20T19:30:00-03:00"
+    },
+    {
+      "id": "obra-12-galinheiro",
+      "tipo": "reel",
+      "video": "videos/12-galinheiro.mp4",
+      "legenda": "O gambá não pula a cerca. Ele cava por baixo.\n\n#galinheiro #galinhas #roça #sitio #construcao",
+      "status": "agendado",
+      "agendado_para": "2026-11-20T21:15:00-03:00"
+    },
+    {
+      "id": "obra-13-piso",
+      "tipo": "reel",
+      "video": "videos/13-piso.mp4",
+      "legenda": "O piso é só a pele. O que segura ele fica por baixo.\n\n#piso #contrapiso #obra #reforma #construcao",
+      "status": "agendado",
+      "agendado_para": "2026-11-21T07:30:00-03:00"
+    },
+    {
+      "id": "obra-14-deck",
+      "tipo": "reel",
+      "video": "videos/14-deck.mp4",
+      "legenda": "Madeira encostada na terra tem prazo de validade.\n\n#deck #madeira #quintal #obra #construcao",
+      "status": "agendado",
+      "agendado_para": "2026-11-21T09:30:00-03:00"
+    },
+    {
+      "id": "obra-15-pergolado",
+      "tipo": "reel",
+      "video": "videos/15-pergolado.mp4",
+      "legenda": "A melhor sombra é a que deixa o vento passar.\n\n#pergolado #quintal #jardim #madeira #construcao",
+      "status": "agendado",
+      "agendado_para": "2026-11-21T11:30:00-03:00"
+    },
+    {
+      "id": "obra-16-arvore",
+      "tipo": "reel",
+      "video": "videos/16-arvore.mp4",
+      "legenda": "A árvore cresce todo ano. A casa tem que deixar.\n\n#casanaarvore #arvore #madeira #infancia #construcao",
+      "status": "agendado",
+      "agendado_para": "2026-11-21T14:00:00-03:00"
+    },
+    {
+      "id": "obra-17-cerca",
+      "tipo": "reel",
+      "video": "videos/17-cerca.mp4",
+      "legenda": "Cerca é uma briga de força, e o arame puxa o tempo todo.\n\n#cerca #fazenda #roça #sitio #construcao",
+      "status": "agendado",
+      "agendado_para": "2026-11-21T16:30:00-03:00"
+    },
+    {
+      "id": "obra-18-poco",
+      "tipo": "reel",
+      "video": "videos/18-poco.mp4",
+      "legenda": "A água embaixo da terra anda, e leva tudo junto.\n\n#poco #agua #sitio #roça #construcao",
+      "status": "agendado",
+      "agendado_para": "2026-11-21T18:30:00-03:00"
+    },
+    {
+      "id": "obra-19-solar",
+      "tipo": "reel",
+      "video": "videos/19-solar.mp4",
+      "legenda": "O sol esquenta seu banho de graça, até de noite.\n\n#aquecedorsolar #energiasolar #economia #casa #construcao",
+      "status": "agendado",
+      "agendado_para": "2026-11-21T20:15:00-03:00"
+    },
+    {
+      "id": "obra-20-pinguela",
+      "tipo": "reel",
+      "video": "videos/20-pinguela.mp4",
+      "legenda": "Um tronco no riacho não é ponte. É banho de rio.\n\n#ponte #madeira #rio #sitio #construcao",
+      "status": "agendado",
+      "agendado_para": "2026-11-21T21:45:00-03:00"
+    }
+  ]
+}
