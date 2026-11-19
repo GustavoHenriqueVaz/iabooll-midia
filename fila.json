@@ -393,6 +393,17 @@
       "formato": "F1-corte-curto",
       "gancho": "POR QUE A PONTE DE MADEIRA QUEBRA NO MEIO?",
       "lote": "lote3"
+    },
+    {
+      "id": "o_mofo",
+      "tipo": "reel",
+      "video": "videos/o_mofo.mp4",
+      "legenda": "Pintar por cima do mofo não resolve. Manda para quem tem mofo na parede.\n\n#mofo #construcao #obra #casa #umidade",
+      "status": "agendado",
+      "agendado_para": "2026-11-24T09:30:00-03:00",
+      "formato": "F3-longo",
+      "gancho": "Por que o mofo da parede sempre volta?",
+      "lote": "lote4"
     }
   ]
 }
