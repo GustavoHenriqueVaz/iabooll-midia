@@ -404,6 +404,17 @@
       "formato": "F3-longo",
       "gancho": "Por que o mofo da parede sempre volta?",
       "lote": "lote4"
+    },
+    {
+      "id": "o_furar",
+      "tipo": "reel",
+      "video": "videos/o_furar.mp4",
+      "legenda": "Antes de furar a parede, veja isso. Manda para quem vai pendurar um quadro.\n\n#parede #construcao #obra #casa #reforma",
+      "status": "agendado",
+      "agendado_para": "2026-11-24T11:30:00-03:00",
+      "formato": "F3-longo",
+      "gancho": "Nunca fure a parede sem ver isso",
+      "lote": "lote4"
     }
   ]
 }
