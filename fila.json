@@ -16,8 +16,10 @@
       "tipo": "reel",
       "video": "videos/02-janela.mp4",
       "legenda": "Toda janela sem essas duas vigas racha nos cantos. Olha a sua.\n\n#janela #construcao #obra #rachadura #reforma",
-      "status": "agendado",
-      "agendado_para": "2026-11-19T20:00:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-19T20:00:00-03:00",
+      "instagram_id": "18123264931750857",
+      "publicado_em": "2026-11-19T20:01:44-03:00"
     },
     {
       "id": "obra-03-telhado",
