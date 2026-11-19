@@ -239,6 +239,17 @@
       "formato": "F1-corte-curto",
       "gancho": "POR QUE UM DEGRAU DIFERENTE DÁ TOMBO?",
       "lote": "lote3"
+    },
+    {
+      "id": "o_enchente",
+      "tipo": "reel",
+      "video": "videos/o_enchente.mp4",
+      "legenda": "Como uma casa é construída para sobreviver à enchente. Manda para quem mora perto de rio.\n\n#enchente #construcao #obra #casa #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-22T19:00:00-03:00",
+      "formato": "F3-longo",
+      "gancho": "COMO UMA CASA SOBREVIVE A UMA ENCHENTE?",
+      "lote": "lote4"
     }
   ]
 }
