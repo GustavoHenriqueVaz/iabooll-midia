@@ -162,6 +162,83 @@
       "legenda": "Um tronco no riacho não é ponte. É banho de rio.\n\n#ponte #madeira #rio #sitio #construcao",
       "status": "agendado",
       "agendado_para": "2026-11-21T21:45:00-03:00"
+    },
+    {
+      "id": "corte-01-muro",
+      "tipo": "reel",
+      "video": "videos/corte-01-muro.mp4",
+      "legenda": "Seu muro vira entulho na primeira chuva? Comenta MURO se o seu tem viga e base.\n\n#muro #construcao #obra #reforma #casa",
+      "status": "agendado",
+      "agendado_para": "2026-11-22T07:30:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE SEU MURO VIRA ENTULHO NA PRIMEIRA CHUVA?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-02-janela",
+      "tipo": "reel",
+      "video": "videos/corte-02-janela.mp4",
+      "legenda": "Se a sua janela não tem essas duas vigas, ela racha nos cantos. Comenta JANELA e eu mostro a sua.\n\n#janela #construcao #obra #rachadura #reforma",
+      "status": "agendado",
+      "agendado_para": "2026-11-22T09:30:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE SUA JANELA RACHA NOS CANTOS?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-03-telhado",
+      "tipo": "reel",
+      "video": "videos/corte-03-telhado.mp4",
+      "legenda": "O vento não empurra o telhado, ele puxa para cima. Manda para quem tem telhado.\n\n#telhado #construcao #obra #telhas #casa",
+      "status": "agendado",
+      "agendado_para": "2026-11-22T11:30:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE O VENTO LEVA O TELHADO DA SUA CASA?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-04-laje",
+      "tipo": "reel",
+      "video": "videos/corte-04-laje.mp4",
+      "legenda": "Concreto sozinho não segura teto. Comenta LAJE para o passo a passo.\n\n#laje #construcao #obra #concreto #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-22T12:30:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE O CONCRETO NÃO SEGURA O TETO?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-05-caixa",
+      "tipo": "reel",
+      "video": "videos/corte-05-caixa.mp4",
+      "legenda": "Mil litros pesam uma tonelada. A sua caixa d'água está em cima de quê? Comenta aqui.\n\n#caixadagua #construcao #obra #encanamento #casa",
+      "status": "agendado",
+      "agendado_para": "2026-11-22T14:00:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "A CAIXA D'ÁGUA PODE DERRUBAR O SEU TETO?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-06-churras",
+      "tipo": "reel",
+      "video": "videos/corte-06-churras.mp4",
+      "legenda": "Tijolo comum estoura no fogo. Quem tem churrasqueira precisa ver. Manda para o dono da churrasqueira.\n\n#churrasqueira #construcao #obra #churrasco #casa",
+      "status": "agendado",
+      "agendado_para": "2026-11-22T16:00:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE O TIJOLO ESTOURA NA CHURRASQUEIRA?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-07-escada",
+      "tipo": "reel",
+      "video": "videos/corte-07-escada.mp4",
+      "legenda": "Seu pé decora a altura do degrau. Um degrau diferente e é tombo. Comenta ESCADA se a sua é assim.\n\n#escada #construcao #obra #arquitetura #casa",
+      "status": "agendado",
+      "agendado_para": "2026-11-22T17:30:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE UM DEGRAU DIFERENTE DÁ TOMBO?",
+      "lote": "lote3"
     }
   ]
 }
