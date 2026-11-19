@@ -250,6 +250,149 @@
       "formato": "F3-longo",
       "gancho": "COMO UMA CASA SOBREVIVE A UMA ENCHENTE?",
       "lote": "lote4"
+    },
+    {
+      "id": "corte-08-portao",
+      "tipo": "reel",
+      "video": "videos/corte-08-portao.mp4",
+      "legenda": "Portão que despenca quase sempre tem o mesmo erro. Manda para quem tem portão de correr.\n\n#portao #construcao #obra #casa #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-22T20:30:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE O PORTÃO PESADO DESPENCA?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-09-quintal",
+      "tipo": "reel",
+      "video": "videos/corte-09-quintal.mp4",
+      "legenda": "Quintal que alaga tem solução simples. Manda para quem vive com lama em casa.\n\n#quintal #construcao #obra #casa #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-22T21:45:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE O QUINTAL VIRA LAMA TODA CHUVA?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-10-cisterna",
+      "tipo": "reel",
+      "video": "videos/corte-10-cisterna.mp4",
+      "legenda": "Água da chuva guardada do jeito certo. Comenta CISTERNA se você quer uma.\n\n#cisterna #construcao #obra #casa #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-23T07:30:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "COMO A CISTERNA NÃO CONTAMINA?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-11-horta",
+      "tipo": "reel",
+      "video": "videos/corte-11-horta.mp4",
+      "legenda": "Horta que não pega quase sempre tem um erro no canteiro. Manda para quem planta.\n\n#horta #construcao #obra #casa #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-23T09:30:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE A HORTA NÃO VAI PARA FRENTE?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-12-galinheiro",
+      "tipo": "reel",
+      "video": "videos/corte-12-galinheiro.mp4",
+      "legenda": "Esse erro de construção custa a vida das galinhas. Manda para quem cria.\n\n#galinheiro #construcao #obra #casa #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-23T11:30:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "O ERRO QUE MATA GALINHA NO GALINHEIRO",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-13-piso",
+      "tipo": "reel",
+      "video": "videos/corte-13-piso.mp4",
+      "legenda": "Piso que estufa tem causa por baixo. Manda para quem vai reformar.\n\n#piso #construcao #obra #casa #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-23T12:30:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE O PISO SOLTA E ESTUFA?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-14-deck",
+      "tipo": "reel",
+      "video": "videos/corte-14-deck.mp4",
+      "legenda": "Deck de madeira que dura pouco tem erro na base. Comenta DECK se você quer um.\n\n#deck #construcao #obra #casa #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-23T14:00:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE O DECK APODRECE EM UM ANO?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-15-pergolado",
+      "tipo": "reel",
+      "video": "videos/corte-15-pergolado.mp4",
+      "legenda": "Pergolado cai por falta de uma peça. Manda para quem quer fazer um.\n\n#pergolado #construcao #obra #casa #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-23T16:00:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE O PERGOLADO CAI COM O VENTO?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-16-arvore",
+      "tipo": "reel",
+      "video": "videos/corte-16-arvore.mp4",
+      "legenda": "A raiz empurra o muro sem ninguém ver. Manda para quem tem árvore no quintal.\n\n#arvore #construcao #obra #casa #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-23T17:30:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE A ÁRVORE DERRUBA O MURO?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-17-cerca",
+      "tipo": "reel",
+      "video": "videos/corte-17-cerca.mp4",
+      "legenda": "Cerca entortada tem erro no mourão. Manda para quem tem terreno.\n\n#cerca #construcao #obra #casa #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-23T19:00:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE A CERCA DO TERRENO ENTORTA?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-18-poco",
+      "tipo": "reel",
+      "video": "videos/corte-18-poco.mp4",
+      "legenda": "Poço sem proteção contamina a família toda. Manda para quem tem poço.\n\n#poco #construcao #obra #casa #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-23T20:30:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "O QUE A ÁGUA DO POÇO ESCONDE?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-19-solar",
+      "tipo": "reel",
+      "video": "videos/corte-19-solar.mp4",
+      "legenda": "Placa solar mal instalada rende metade. Comenta SOLAR se você quer saber.\n\n#energiasolar #construcao #obra #casa #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-23T21:45:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE A PLACA SOLAR NÃO PAGA A CONTA?",
+      "lote": "lote3"
+    },
+    {
+      "id": "corte-20-ponte",
+      "tipo": "reel",
+      "video": "videos/corte-20-ponte.mp4",
+      "legenda": "Ponte de madeira quebra por um detalhe da estrutura. Manda para quem tem sítio.\n\n#ponte #construcao #obra #casa #engenharia",
+      "status": "agendado",
+      "agendado_para": "2026-11-24T07:30:00-03:00",
+      "formato": "F1-corte-curto",
+      "gancho": "POR QUE A PONTE DE MADEIRA QUEBRA NO MEIO?",
+      "lote": "lote3"
     }
   ]
 }
