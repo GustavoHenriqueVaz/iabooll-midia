@@ -36,8 +36,10 @@
       "tipo": "reel",
       "video": "videos/04-portao.mp4",
       "legenda": "Portão de ferro em pilar de tijolo tem dia marcado para cair.\n\n#portao #construcao #obra #pilar #reforma",
-      "status": "agendado",
-      "agendado_para": "2026-11-19T21:30:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-19T21:30:00-03:00",
+      "instagram_id": "18058825787580545",
+      "publicado_em": "2026-11-19T21:30:53-03:00"
     },
     {
       "id": "obra-05-laje",
