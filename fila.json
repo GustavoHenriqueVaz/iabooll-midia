@@ -86,8 +86,10 @@
       "tipo": "reel",
       "video": "videos/09-churras.mp4",
       "legenda": "Tijolo comum estoura no fogo. Por dentro tem que ser outro.\n\n#churrasqueira #construcao #obra #churrasco #reforma",
-      "status": "agendado",
-      "agendado_para": "2026-11-20T15:00:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-20T15:00:00-03:00",
+      "instagram_id": "18065112689581550",
+      "publicado_em": "2026-11-20T15:01:43-03:00"
     },
     {
       "id": "obra-10-cisterna",
