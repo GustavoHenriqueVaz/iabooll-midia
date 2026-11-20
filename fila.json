@@ -76,8 +76,10 @@
       "tipo": "reel",
       "video": "videos/08-quintal.mp4",
       "legenda": "Quintal retinho vira piscina de dengue. Dois centímetros resolvem.\n\n#quintal #construcao #obra #piso #reforma",
-      "status": "agendado",
-      "agendado_para": "2026-11-20T12:30:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-20T12:30:00-03:00",
+      "instagram_id": "17982265284139899",
+      "publicado_em": "2026-11-20T12:31:42-03:00"
     },
     {
       "id": "obra-09-churras",
