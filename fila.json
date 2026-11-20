@@ -56,8 +56,10 @@
       "tipo": "reel",
       "video": "videos/06-escada.mp4",
       "legenda": "Seu pé decora a altura do degrau. Um degrau diferente e é tombo.\n\n#escada #construcao #obra #arquitetura #reforma",
-      "status": "agendado",
-      "agendado_para": "2026-11-20T08:00:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-20T08:00:00-03:00",
+      "instagram_id": "17935621350421702",
+      "publicado_em": "2026-11-20T08:01:51-03:00"
     },
     {
       "id": "obra-07-caixa",
