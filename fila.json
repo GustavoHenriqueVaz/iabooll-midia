@@ -106,8 +106,10 @@
       "tipo": "reel",
       "video": "videos/11-horta.mp4",
       "legenda": "O mesmo quintal que dá mato pode dar comida o ano todo.\n\n#horta #hortaemcasa #canteiro #jardinagem #construcao",
-      "status": "agendado",
-      "agendado_para": "2026-11-20T19:30:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-20T19:30:00-03:00",
+      "instagram_id": "18078937724748923",
+      "publicado_em": "2026-11-20T19:32:02-03:00"
     },
     {
       "id": "obra-12-galinheiro",
