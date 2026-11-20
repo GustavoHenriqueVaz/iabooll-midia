@@ -66,8 +66,10 @@
       "tipo": "reel",
       "video": "videos/07-caixa.mp4",
       "legenda": "Mil litros pesam uma tonelada. Nunca em cima do forro.\n\n#caixadagua #construcao #obra #encanamento #reforma",
-      "status": "agendado",
-      "agendado_para": "2026-11-20T10:30:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-20T10:30:00-03:00",
+      "instagram_id": "18021000107746170",
+      "publicado_em": "2026-11-20T10:31:45-03:00"
     },
     {
       "id": "obra-08-quintal",
