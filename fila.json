@@ -96,8 +96,10 @@
       "tipo": "reel",
       "video": "videos/10-cisterna.mp4",
       "legenda": "Cada chuva pode encher um tanque de água de graça no seu quintal.\n\n#cisterna #construcao #obra #aguadachuva #sustentabilidade",
-      "status": "agendado",
-      "agendado_para": "2026-11-20T17:30:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-20T17:30:00-03:00",
+      "instagram_id": "18120217199106910",
+      "publicado_em": "2026-11-20T17:31:47-03:00"
     },
     {
       "id": "obra-11-horta",
