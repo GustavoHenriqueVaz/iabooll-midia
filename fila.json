@@ -46,8 +46,10 @@
       "tipo": "reel",
       "video": "videos/05-laje.mp4",
       "legenda": "Concreto sozinho não segura teto. Esses 4 passos seguram.\n\n#laje #construcao #obra #concreto #engenharia",
-      "status": "agendado",
-      "agendado_para": "2026-11-19T22:15:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-19T22:15:00-03:00",
+      "instagram_id": "18395216743225353",
+      "publicado_em": "2026-11-19T22:17:06-03:00"
     },
     {
       "id": "obra-06-escada",
