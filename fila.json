@@ -186,8 +186,10 @@
       "tipo": "reel",
       "video": "videos/19-solar.mp4",
       "legenda": "O sol esquenta seu banho de graça, até de noite.\n\n#aquecedorsolar #energiasolar #economia #casa #construcao",
-      "status": "agendado",
-      "agendado_para": "2026-11-21T20:15:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-21T20:15:00-03:00",
+      "instagram_id": "18029966984868813",
+      "publicado_em": "2026-11-21T20:16:06-03:00"
     },
     {
       "id": "obra-20-pinguela",
