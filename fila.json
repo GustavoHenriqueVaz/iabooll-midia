@@ -166,8 +166,10 @@
       "tipo": "reel",
       "video": "videos/17-cerca.mp4",
       "legenda": "Cerca é uma briga de força, e o arame puxa o tempo todo.\n\n#cerca #fazenda #roça #sitio #construcao",
-      "status": "agendado",
-      "agendado_para": "2026-11-21T16:30:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-21T16:30:00-03:00",
+      "instagram_id": "18121457548780425",
+      "publicado_em": "2026-11-21T16:31:29-03:00"
     },
     {
       "id": "obra-18-poco",
