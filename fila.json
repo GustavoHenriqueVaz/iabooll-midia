@@ -156,8 +156,10 @@
       "tipo": "reel",
       "video": "videos/16-arvore.mp4",
       "legenda": "A árvore cresce todo ano. A casa tem que deixar.\n\n#casanaarvore #arvore #madeira #infancia #construcao",
-      "status": "agendado",
-      "agendado_para": "2026-11-21T14:00:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-21T14:00:00-03:00",
+      "instagram_id": "18090227093700912",
+      "publicado_em": "2026-11-21T14:01:01-03:00"
     },
     {
       "id": "obra-17-cerca",
