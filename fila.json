@@ -116,8 +116,10 @@
       "tipo": "reel",
       "video": "videos/12-galinheiro.mp4",
       "legenda": "O gambá não pula a cerca. Ele cava por baixo.\n\n#galinheiro #galinhas #roça #sitio #construcao",
-      "status": "agendado",
-      "agendado_para": "2026-11-20T21:15:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-20T21:15:00-03:00",
+      "instagram_id": "18220754803346928",
+      "publicado_em": "2026-11-20T21:16:55-03:00"
     },
     {
       "id": "obra-13-piso",
