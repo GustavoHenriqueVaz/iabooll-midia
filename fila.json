@@ -136,8 +136,10 @@
       "tipo": "reel",
       "video": "videos/14-deck.mp4",
       "legenda": "Madeira encostada na terra tem prazo de validade.\n\n#deck #madeira #quintal #obra #construcao",
-      "status": "agendado",
-      "agendado_para": "2026-11-21T09:30:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-21T09:30:00-03:00",
+      "instagram_id": "18137753350661690",
+      "publicado_em": "2026-11-21T09:30:58-03:00"
     },
     {
       "id": "obra-15-pergolado",
