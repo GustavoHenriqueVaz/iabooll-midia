@@ -126,8 +126,10 @@
       "tipo": "reel",
       "video": "videos/13-piso.mp4",
       "legenda": "O piso é só a pele. O que segura ele fica por baixo.\n\n#piso #contrapiso #obra #reforma #construcao",
-      "status": "agendado",
-      "agendado_para": "2026-11-21T07:30:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-21T07:30:00-03:00",
+      "instagram_id": "18084442838420678",
+      "publicado_em": "2026-11-21T07:31:13-03:00"
     },
     {
       "id": "obra-14-deck",
