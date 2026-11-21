@@ -146,8 +146,10 @@
       "tipo": "reel",
       "video": "videos/15-pergolado.mp4",
       "legenda": "A melhor sombra é a que deixa o vento passar.\n\n#pergolado #quintal #jardim #madeira #construcao",
-      "status": "agendado",
-      "agendado_para": "2026-11-21T11:30:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-21T11:30:00-03:00",
+      "instagram_id": "18166909948493697",
+      "publicado_em": "2026-11-21T11:30:47-03:00"
     },
     {
       "id": "obra-16-arvore",
