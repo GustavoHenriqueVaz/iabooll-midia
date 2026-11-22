@@ -258,11 +258,13 @@
       "tipo": "reel",
       "video": "videos/corte-05-caixa.mp4",
       "legenda": "Mil litros pesam uma tonelada. A sua caixa d'água está em cima de quê? Comenta aqui.\n\n#caixadagua #construcao #obra #encanamento #casa",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-22T14:00:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "A CAIXA D'ÁGUA PODE DERRUBAR O SEU TETO?",
-      "lote": "lote3"
+      "lote": "lote3",
+      "instagram_id": "17889590169501455",
+      "publicado_em": "2026-11-22T14:01:06-03:00"
     },
     {
       "id": "corte-06-churras",
