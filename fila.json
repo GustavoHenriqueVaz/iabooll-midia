@@ -219,11 +219,13 @@
       "tipo": "reel",
       "video": "videos/corte-02-janela.mp4",
       "legenda": "Se a sua janela não tem essas duas vigas, ela racha nos cantos. Comenta JANELA e eu mostro a sua.\n\n#janela #construcao #obra #rachadura #reforma",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-22T09:30:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE SUA JANELA RACHA NOS CANTOS?",
-      "lote": "lote3"
+      "lote": "lote3",
+      "instagram_id": "18120350363121006",
+      "publicado_em": "2026-11-22T09:31:16-03:00"
     },
     {
       "id": "corte-03-telhado",
