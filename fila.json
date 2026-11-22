@@ -284,11 +284,13 @@
       "tipo": "reel",
       "video": "videos/corte-07-escada.mp4",
       "legenda": "Seu pé decora a altura do degrau. Um degrau diferente e é tombo. Comenta ESCADA se a sua é assim.\n\n#escada #construcao #obra #arquitetura #casa",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-22T17:30:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE UM DEGRAU DIFERENTE DÁ TOMBO?",
-      "lote": "lote3"
+      "lote": "lote3",
+      "instagram_id": "17965001438998716",
+      "publicado_em": "2026-11-22T17:30:41-03:00"
     },
     {
       "id": "o_enchente",
