@@ -232,11 +232,13 @@
       "tipo": "reel",
       "video": "videos/corte-03-telhado.mp4",
       "legenda": "O vento não empurra o telhado, ele puxa para cima. Manda para quem tem telhado.\n\n#telhado #construcao #obra #telhas #casa",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-22T11:30:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE O VENTO LEVA O TELHADO DA SUA CASA?",
-      "lote": "lote3"
+      "lote": "lote3",
+      "instagram_id": "17880372000633791",
+      "publicado_em": "2026-11-22T11:31:02-03:00"
     },
     {
       "id": "corte-04-laje",
