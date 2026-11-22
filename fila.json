@@ -271,11 +271,13 @@
       "tipo": "reel",
       "video": "videos/corte-06-churras.mp4",
       "legenda": "Tijolo comum estoura no fogo. Quem tem churrasqueira precisa ver. Manda para o dono da churrasqueira.\n\n#churrasqueira #construcao #obra #churrasco #casa",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-22T16:00:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE O TIJOLO ESTOURA NA CHURRASQUEIRA?",
-      "lote": "lote3"
+      "lote": "lote3",
+      "instagram_id": "18172498423415455",
+      "publicado_em": "2026-11-22T16:31:11-03:00"
     },
     {
       "id": "corte-07-escada",
