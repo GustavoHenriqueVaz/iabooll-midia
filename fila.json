@@ -196,8 +196,10 @@
       "tipo": "reel",
       "video": "videos/20-pinguela.mp4",
       "legenda": "Um tronco no riacho não é ponte. É banho de rio.\n\n#ponte #madeira #rio #sitio #construcao",
-      "status": "agendado",
-      "agendado_para": "2026-11-21T21:45:00-03:00"
+      "status": "publicado",
+      "agendado_para": "2026-11-21T21:45:00-03:00",
+      "instagram_id": "18083793782371457",
+      "publicado_em": "2026-11-21T21:46:44-03:00"
     },
     {
       "id": "corte-01-muro",
