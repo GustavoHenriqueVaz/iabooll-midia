@@ -310,11 +310,13 @@
       "tipo": "reel",
       "video": "videos/corte-08-portao.mp4",
       "legenda": "Portão que despenca quase sempre tem o mesmo erro. Manda para quem tem portão de correr.\n\n#portao #construcao #obra #casa #engenharia",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-22T20:30:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE O PORTÃO PESADO DESPENCA?",
-      "lote": "lote3"
+      "lote": "lote3",
+      "instagram_id": "18607790782066938",
+      "publicado_em": "2026-11-22T20:31:24-03:00"
     },
     {
       "id": "corte-09-quintal",
