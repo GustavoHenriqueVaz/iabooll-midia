@@ -206,11 +206,13 @@
       "tipo": "reel",
       "video": "videos/corte-01-muro.mp4",
       "legenda": "Seu muro vira entulho na primeira chuva? Comenta MURO se o seu tem viga e base.\n\n#muro #construcao #obra #reforma #casa",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-22T07:30:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE SEU MURO VIRA ENTULHO NA PRIMEIRA CHUVA?",
-      "lote": "lote3"
+      "lote": "lote3",
+      "instagram_id": "18084479696361864",
+      "publicado_em": "2026-11-22T07:31:52-03:00"
     },
     {
       "id": "corte-02-janela",
