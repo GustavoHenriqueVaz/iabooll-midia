@@ -245,11 +245,13 @@
       "tipo": "reel",
       "video": "videos/corte-04-laje.mp4",
       "legenda": "Concreto sozinho não segura teto. Comenta LAJE para o passo a passo.\n\n#laje #construcao #obra #concreto #engenharia",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-22T12:30:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE O CONCRETO NÃO SEGURA O TETO?",
-      "lote": "lote3"
+      "lote": "lote3",
+      "instagram_id": "18105893057531308",
+      "publicado_em": "2026-11-22T12:31:40-03:00"
     },
     {
       "id": "corte-05-caixa",
