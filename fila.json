@@ -479,11 +479,13 @@
       "tipo": "reel",
       "video": "videos/o_mofo.mp4",
       "legenda": "Pintar por cima do mofo não resolve. Manda para quem tem mofo na parede.\n\n#mofo #construcao #obra #casa #umidade",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T06:30:00-03:00",
       "formato": "F3-longo",
       "gancho": "Por que o mofo da parede sempre volta?",
-      "lote": "lote4"
+      "lote": "lote4",
+      "instagram_id": "18122163232987209",
+      "publicado_em": "2026-11-23T06:31:33-03:00"
     },
     {
       "id": "o_furar",
