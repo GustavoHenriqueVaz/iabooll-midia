@@ -466,11 +466,13 @@
       "tipo": "reel",
       "video": "videos/o_raio.mp4",
       "legenda": "O Empire State leva cerca de 20 raios por ano. Manda para quem repete esse mito.\n\n#mito #curiosidades #vocesabia #raio #dicas",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T02:31:00-03:00",
       "formato": "F5-mito",
       "gancho": "Raio nunca cai duas vezes no mesmo lugar?",
-      "lote": "lote5"
+      "lote": "lote5",
+      "instagram_id": "18122618125967243",
+      "publicado_em": "2026-11-23T02:31:37-03:00"
     },
     {
       "id": "o_mofo",
