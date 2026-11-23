@@ -648,11 +648,13 @@
       "tipo": "reel",
       "video": "videos/o_dentroar.mp4",
       "legenda": "O ar-condicionado rouba o calor da sala e joga para fora. Manda para quem tem ar-condicionado.\n\n#curiosidades #vocesabia #arcondicionado #casa #energia",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T17:58:00-03:00",
       "formato": "F6-curto",
       "gancho": "O ar-condicionado não cria frio",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18087540578335964",
+      "publicado_em": "2026-11-23T17:58:38-03:00"
     },
     {
       "id": "o_descarga",
