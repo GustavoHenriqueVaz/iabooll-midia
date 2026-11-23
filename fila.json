@@ -583,11 +583,13 @@
       "tipo": "reel",
       "video": "videos/o_esgotogrosso.mp4",
       "legenda": "O cano de esgoto grosso evita entupimento e deixa o ar passar. Manda para quem vai reformar.\n\n#curiosidades #vocesabia #casa #encanamento #esgoto",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T14:23:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o cano de esgoto é grosso?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "17957368038308268",
+      "publicado_em": "2026-11-23T14:23:33-03:00"
     },
     {
       "id": "o_torneirapinga",
