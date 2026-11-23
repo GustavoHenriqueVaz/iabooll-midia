@@ -414,11 +414,13 @@
       "tipo": "reel",
       "video": "videos/o_barba.mp4",
       "legenda": "Raspar não engrossa o pelo, e a explicação é simples. Manda para quem acredita nisso.\n\n#mito #curiosidades #vocesabia #barba #dicas",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T00:31:00-03:00",
       "formato": "F5-mito",
       "gancho": "Raspar a barba engrossa o pelo?",
-      "lote": "lote5"
+      "lote": "lote5",
+      "instagram_id": "18347568796259593",
+      "publicado_em": "2026-11-23T00:31:52-03:00"
     },
     {
       "id": "o_cerebro",
