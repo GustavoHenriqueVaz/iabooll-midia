@@ -427,11 +427,13 @@
       "tipo": "reel",
       "video": "videos/o_cerebro.mp4",
       "legenda": "Você usa o cérebro inteiro, até dormindo. Manda para quem acredita nos 10%.\n\n#mito #curiosidades #vocesabia #cerebro #dicas",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T01:01:00-03:00",
       "formato": "F5-mito",
       "gancho": "Você usa só 10% do cérebro?",
-      "lote": "lote5"
+      "lote": "lote5",
+      "instagram_id": "18134853910786267",
+      "publicado_em": "2026-11-23T01:02:45-03:00"
     },
     {
       "id": "o_dedos",
