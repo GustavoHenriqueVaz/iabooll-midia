@@ -323,11 +323,13 @@
       "tipo": "reel",
       "video": "videos/o_bueiro.mp4",
       "legenda": "Uma tampa quadrada cai no buraco, a redonda nunca. Manda para quem trabalha com obra.\n\n#curiosidades #vocesabia #cidade #engenharia #bueiro",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-22T21:30:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que a tampa de bueiro é redonda?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18103594772386425",
+      "publicado_em": "2026-11-22T21:30:47-03:00"
     },
     {
       "id": "o_tomada3",
