@@ -544,11 +544,13 @@
       "tipo": "reel",
       "video": "videos/o_caimentobanheiro.mp4",
       "legenda": "O piso do banheiro tem caimento para a água ir ao ralo. Manda para quem vai reformar o banheiro.\n\n#curiosidades #vocesabia #banheiro #casa #obra",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T12:14:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o piso do banheiro é inclinado?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "17905593192605211",
+      "publicado_em": "2026-11-23T12:14:51-03:00"
     },
     {
       "id": "o_janelacanto",
