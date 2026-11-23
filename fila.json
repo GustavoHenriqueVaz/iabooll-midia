@@ -453,11 +453,13 @@
       "tipo": "reel",
       "video": "videos/o_motor.mp4",
       "legenda": "Esquentar o motor parado só gasta combustível. Manda para quem faz isso.\n\n#mito #curiosidades #vocesabia #carros #dicas",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T02:01:00-03:00",
       "formato": "F5-mito",
       "gancho": "Precisa esquentar o motor com o carro parado?",
-      "lote": "lote5"
+      "lote": "lote5",
+      "instagram_id": "18130439125906188",
+      "publicado_em": "2026-11-23T02:02:13-03:00"
     },
     {
       "id": "o_raio",
