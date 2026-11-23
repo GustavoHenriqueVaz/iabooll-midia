@@ -492,11 +492,13 @@
       "tipo": "reel",
       "video": "videos/s2d-01-barra.mp4",
       "legenda": "Uma bola vira milhares. Espera o final. Manda para quem não resiste a coisa satisfatória.\n\n#satisfatorio #fisica #simulacao #bolas #curiosidades",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T09:22:00-03:00",
       "formato": "F8-sim2d",
       "gancho": "Quantas bolas cabem?",
-      "lote": "lote8"
+      "lote": "lote8",
+      "instagram_id": "18002736003019922",
+      "publicado_em": "2026-11-23T09:23:05-03:00"
     },
     {
       "id": "o_tijolofuro",
