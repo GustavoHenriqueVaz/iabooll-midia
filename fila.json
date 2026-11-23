@@ -518,11 +518,13 @@
       "tipo": "reel",
       "video": "videos/o_telhadoinclina.mp4",
       "legenda": "O telhado inclinado joga a chuva para fora. Manda para quem vai cobrir a casa.\n\n#curiosidades #vocesabia #construcao #telhado #casa",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T10:48:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o telhado é inclinado?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18400499224162425",
+      "publicado_em": "2026-11-23T10:49:39-03:00"
     },
     {
       "id": "o_boia",
