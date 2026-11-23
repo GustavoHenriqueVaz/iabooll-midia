@@ -336,11 +336,13 @@
       "tipo": "reel",
       "video": "videos/o_tomada3.mp4",
       "legenda": "O terceiro furo protege você de choque. Chame um eletricista para o aterramento. Manda para quem usa adaptador.\n\n#curiosidades #vocesabia #eletrica #casa #seguranca",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-22T21:59:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que a tomada tem 3 furos?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18137470009756743",
+      "publicado_em": "2026-11-22T22:00:10-03:00"
     },
     {
       "id": "o_caixa1000",
