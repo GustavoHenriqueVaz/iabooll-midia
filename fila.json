@@ -661,11 +661,13 @@
       "tipo": "reel",
       "video": "videos/o_descarga.mp4",
       "legenda": "A descarga usa só a gravidade e um sifão, sem motor. Manda para quem nunca pensou nisso.\n\n#curiosidades #vocesabia #banheiro #casa #fisica",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T18:41:00-03:00",
       "formato": "F6-curto",
       "gancho": "Como a descarga funciona sem motor?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18403972789201857",
+      "publicado_em": "2026-11-23T18:42:21-03:00"
     },
     {
       "id": "o_asfaltocamadas",
