@@ -570,11 +570,13 @@
       "tipo": "reel",
       "video": "videos/o_barbacan.mp4",
       "legenda": "Os furinhos do muro deixam a água sair e evitam que ele caia. Manda para quem tem muro de arrimo.\n\n#curiosidades #vocesabia #construcao #muro #engenharia",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T13:40:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o muro tem furinhos?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18122435572765835",
+      "publicado_em": "2026-11-23T13:41:35-03:00"
     },
     {
       "id": "o_esgotogrosso",
