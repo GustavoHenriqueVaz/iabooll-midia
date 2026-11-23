@@ -557,11 +557,13 @@
       "tipo": "reel",
       "video": "videos/o_janelacanto.mp4",
       "legenda": "A rachadura nasce no canto da janela, e duas vigas resolvem. Manda para quem vai construir.\n\n#curiosidades #vocesabia #casa #construcao #janela",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T12:57:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que a janela racha nos cantos?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18100196999666741",
+      "publicado_em": "2026-11-23T12:58:42-03:00"
     },
     {
       "id": "o_barbacan",
