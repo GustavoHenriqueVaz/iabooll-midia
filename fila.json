@@ -440,11 +440,13 @@
       "tipo": "reel",
       "video": "videos/o_dedos.mp4",
       "legenda": "Estalar os dedos não causa artrite. O estalo é uma bolha. Manda para quem estala.\n\n#mito #curiosidades #vocesabia #curiosidades #dicas",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T01:31:00-03:00",
       "formato": "F5-mito",
       "gancho": "Estalar os dedos causa artrite?",
-      "lote": "lote5"
+      "lote": "lote5",
+      "instagram_id": "18088114814336502",
+      "publicado_em": "2026-11-23T01:32:45-03:00"
     },
     {
       "id": "o_motor",
