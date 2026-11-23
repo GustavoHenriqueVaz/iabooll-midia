@@ -362,11 +362,13 @@
       "tipo": "reel",
       "video": "videos/o_gas.mp4",
       "legenda": "O gás puro não tem cheiro, colocaram de propósito. Sentiu cheiro: abra as janelas e não acenda nada. Manda para sua família.\n\n#curiosidades #vocesabia #gas #cozinha #seguranca",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-22T22:57:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o gás de cozinha tem cheiro?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18190859473424159",
+      "publicado_em": "2026-11-22T22:59:25-03:00"
     },
     {
       "id": "o_coluna",
