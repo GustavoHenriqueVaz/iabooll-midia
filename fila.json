@@ -622,11 +622,13 @@
       "tipo": "reel",
       "video": "videos/o_curaconcreto.mp4",
       "legenda": "O concreto endurece por reação com a água, não por secar. Manda para quem faz laje.\n\n#curiosidades #vocesabia #construcao #concreto #obra",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T16:32:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que molhar o concreto depois de pronto?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "17899692489415859",
+      "publicado_em": "2026-11-23T16:34:31-03:00"
     },
     {
       "id": "o_lajecapa",
