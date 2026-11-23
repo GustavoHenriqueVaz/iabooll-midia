@@ -635,11 +635,13 @@
       "tipo": "reel",
       "video": "videos/o_lajecapa.mp4",
       "legenda": "Laje recém-feita precisa ser molhada para não rachar. Manda para quem está construindo.\n\n#curiosidades #vocesabia #construcao #laje #obra",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T17:15:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que a laje é coberta de água?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "17906657262603797",
+      "publicado_em": "2026-11-23T17:16:36-03:00"
     },
     {
       "id": "o_dentroar",
