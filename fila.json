@@ -375,11 +375,13 @@
       "tipo": "reel",
       "video": "videos/o_coluna.mp4",
       "legenda": "Tirar uma coluna parece simples, o teto não cai na hora. Só com engenheiro. Manda para quem vai reformar.\n\n#curiosidades #vocesabia #casa #construcao #engenharia",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-22T23:26:00-03:00",
       "formato": "F6-curto",
       "gancho": "E se tirar uma coluna da casa?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18119340104585713",
+      "publicado_em": "2026-11-22T23:27:26-03:00"
     },
     {
       "id": "o_box",
