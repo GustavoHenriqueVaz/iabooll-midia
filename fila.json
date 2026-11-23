@@ -388,11 +388,13 @@
       "tipo": "reel",
       "video": "videos/o_box.mp4",
       "legenda": "O vidro temperado pode estourar sem ninguém encostar, é raro. Manda para quem tem box.\n\n#curiosidades #vocesabia #banheiro #vidro #casa",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-22T23:55:00-03:00",
       "formato": "F6-curto",
       "gancho": "O vidro do box estoura sozinho?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18117105857035344",
+      "publicado_em": "2026-11-22T23:55:34-03:00"
     },
     {
       "id": "o_ar18",
