@@ -401,11 +401,13 @@
       "tipo": "reel",
       "video": "videos/o_ar18.mp4",
       "legenda": "Ar em 18 graus não gela mais rápido, só gasta mais. Manda para quem faz isso.\n\n#mito #curiosidades #vocesabia #arcondicionado #dicas",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T00:01:00-03:00",
       "formato": "F5-mito",
       "gancho": "Ar-condicionado em 18 graus gela mais rápido?",
-      "lote": "lote5"
+      "lote": "lote5",
+      "instagram_id": "18112188323251480",
+      "publicado_em": "2026-11-23T00:02:26-03:00"
     },
     {
       "id": "o_barba",
