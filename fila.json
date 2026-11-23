@@ -349,11 +349,13 @@
       "tipo": "reel",
       "video": "videos/o_caixa1000.mp4",
       "legenda": "A caixa de mil litros cheia pesa uma tonelada em cima do seu telhado. Manda para quem tem caixa d'água.\n\n#curiosidades #vocesabia #casa #caixadagua #seguranca",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-22T22:28:00-03:00",
       "formato": "F6-curto",
       "gancho": "Mil litros pesam uma tonelada",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18110988080223510",
+      "publicado_em": "2026-11-22T22:29:17-03:00"
     },
     {
       "id": "o_gas",
