@@ -531,11 +531,13 @@
       "tipo": "reel",
       "video": "videos/o_boia.mp4",
       "legenda": "A boia fecha a água quando a caixa enche. Manda para quem tem caixa d'água.\n\n#curiosidades #vocesabia #casa #caixadagua #agua",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T11:31:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que a caixa d'água tem uma boia?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "17994434852861824",
+      "publicado_em": "2026-11-23T11:31:37-03:00"
     },
     {
       "id": "o_caimentobanheiro",
