@@ -674,11 +674,13 @@
       "tipo": "reel",
       "video": "videos/o_asfaltocamadas.mp4",
       "legenda": "O asfalto é só a camada de cima, o que segura os caminhões é a pedra por baixo. Manda para quem dirige.\n\n#curiosidades #vocesabia #asfalto #cidade #engenharia",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T19:24:00-03:00",
       "formato": "F6-curto",
       "gancho": "O que tem embaixo do asfalto?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18365675821301607",
+      "publicado_em": "2026-11-23T19:25:38-03:00"
     },
     {
       "id": "o_transformador",
