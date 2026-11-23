@@ -596,11 +596,13 @@
       "tipo": "reel",
       "video": "videos/o_torneirapinga.mp4",
       "legenda": "Uma torneira pingando gasta mais de cem litros por mês. O conserto é uma borracha. Manda para quem tem torneira pingando.\n\n#curiosidades #vocesabia #casa #agua #economia",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T15:06:00-03:00",
       "formato": "F6-curto",
       "gancho": "Quanto custa uma torneira pingando?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18118111541035338",
+      "publicado_em": "2026-11-23T15:07:01-03:00"
     },
     {
       "id": "o_portaemergencia",
