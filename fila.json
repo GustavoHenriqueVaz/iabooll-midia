@@ -388,11 +388,104 @@
       "tipo": "reel",
       "video": "videos/o_box.mp4",
       "legenda": "O vidro temperado pode estourar sem ninguém encostar, é raro. Manda para quem tem box.\n\n#curiosidades #vocesabia #banheiro #vidro #casa",
-      "status": "agendado",
-      "agendado_para": "2026-11-23T21:30:00-03:00",
+      "status": "publicado",
+      "agendado_para": "2026-11-22T23:55:00-03:00",
       "formato": "F6-curto",
       "gancho": "O vidro do box estoura sozinho?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18117105857035344",
+      "publicado_em": "2026-11-22T23:55:34-03:00"
+    },
+    {
+      "id": "o_ar18",
+      "tipo": "reel",
+      "video": "videos/o_ar18.mp4",
+      "legenda": "Ar em 18 graus não gela mais rápido, só gasta mais. Manda para quem faz isso.\n\n#mito #curiosidades #vocesabia #arcondicionado #dicas",
+      "status": "publicado",
+      "agendado_para": "2026-11-23T00:01:00-03:00",
+      "formato": "F5-mito",
+      "gancho": "Ar-condicionado em 18 graus gela mais rápido?",
+      "lote": "lote5",
+      "instagram_id": "18112188323251480",
+      "publicado_em": "2026-11-23T00:02:26-03:00"
+    },
+    {
+      "id": "o_barba",
+      "tipo": "reel",
+      "video": "videos/o_barba.mp4",
+      "legenda": "Raspar não engrossa o pelo, e a explicação é simples. Manda para quem acredita nisso.\n\n#mito #curiosidades #vocesabia #barba #dicas",
+      "status": "publicado",
+      "agendado_para": "2026-11-23T00:31:00-03:00",
+      "formato": "F5-mito",
+      "gancho": "Raspar a barba engrossa o pelo?",
+      "lote": "lote5",
+      "instagram_id": "18347568796259593",
+      "publicado_em": "2026-11-23T00:31:52-03:00"
+    },
+    {
+      "id": "o_cerebro",
+      "tipo": "reel",
+      "video": "videos/o_cerebro.mp4",
+      "legenda": "Você usa o cérebro inteiro, até dormindo. Manda para quem acredita nos 10%.\n\n#mito #curiosidades #vocesabia #cerebro #dicas",
+      "status": "publicado",
+      "agendado_para": "2026-11-23T01:01:00-03:00",
+      "formato": "F5-mito",
+      "gancho": "Você usa só 10% do cérebro?",
+      "lote": "lote5",
+      "instagram_id": "18134853910786267",
+      "publicado_em": "2026-11-23T01:02:45-03:00"
+    },
+    {
+      "id": "o_dedos",
+      "tipo": "reel",
+      "video": "videos/o_dedos.mp4",
+      "legenda": "Estalar os dedos não causa artrite. O estalo é uma bolha. Manda para quem estala.\n\n#mito #curiosidades #vocesabia #curiosidades #dicas",
+      "status": "publicado",
+      "agendado_para": "2026-11-23T01:31:00-03:00",
+      "formato": "F5-mito",
+      "gancho": "Estalar os dedos causa artrite?",
+      "lote": "lote5",
+      "instagram_id": "18088114814336502",
+      "publicado_em": "2026-11-23T01:32:45-03:00"
+    },
+    {
+      "id": "o_motor",
+      "tipo": "reel",
+      "video": "videos/o_motor.mp4",
+      "legenda": "Esquentar o motor parado só gasta combustível. Manda para quem faz isso.\n\n#mito #curiosidades #vocesabia #carros #dicas",
+      "status": "publicado",
+      "agendado_para": "2026-11-23T02:01:00-03:00",
+      "formato": "F5-mito",
+      "gancho": "Precisa esquentar o motor com o carro parado?",
+      "lote": "lote5",
+      "instagram_id": "18130439125906188",
+      "publicado_em": "2026-11-23T02:02:13-03:00"
+    },
+    {
+      "id": "o_raio",
+      "tipo": "reel",
+      "video": "videos/o_raio.mp4",
+      "legenda": "O Empire State leva cerca de 20 raios por ano. Manda para quem repete esse mito.\n\n#mito #curiosidades #vocesabia #raio #dicas",
+      "status": "publicado",
+      "agendado_para": "2026-11-23T02:31:00-03:00",
+      "formato": "F5-mito",
+      "gancho": "Raio nunca cai duas vezes no mesmo lugar?",
+      "lote": "lote5",
+      "instagram_id": "18122618125967243",
+      "publicado_em": "2026-11-23T02:31:37-03:00"
+    },
+    {
+      "id": "o_mofo",
+      "tipo": "reel",
+      "video": "videos/o_mofo.mp4",
+      "legenda": "Pintar por cima do mofo não resolve. Manda para quem tem mofo na parede.\n\n#mofo #construcao #obra #casa #umidade",
+      "status": "publicado",
+      "agendado_para": "2026-11-23T06:30:00-03:00",
+      "formato": "F3-longo",
+      "gancho": "Por que o mofo da parede sempre volta?",
+      "lote": "lote4",
+      "instagram_id": "18122163232987209",
+      "publicado_em": "2026-11-23T06:31:33-03:00"
     },
     {
       "id": "o_paredebanheiro",
@@ -400,7 +493,7 @@
       "video": "videos/o_paredebanheiro.mp4",
       "legenda": "Cano, esgoto e fios na mesma parede. Descubra o caminho antes de furar. Manda para quem vai pendurar prateleira.\n\n#curiosidades #vocesabia #banheiro #casa #obra",
       "status": "agendado",
-      "agendado_para": "2026-11-23T21:59:00-03:00",
+      "agendado_para": "2026-11-23T21:30:00-03:00",
       "formato": "F6-curto",
       "gancho": "O que tem dentro da parede do banheiro?",
       "lote": "lote6"
@@ -411,7 +504,7 @@
       "video": "videos/o_japao.mp4",
       "legenda": "No Japão o prédio balança de propósito para não cair no terremoto. Manda para quem curte Japão.\n\n#curiosidades #vocesabia #japao #engenharia #terremoto",
       "status": "agendado",
-      "agendado_para": "2026-11-23T22:28:00-03:00",
+      "agendado_para": "2026-11-23T21:59:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o Japão constrói prédios que balançam?",
       "lote": "lote6"
@@ -422,7 +515,7 @@
       "video": "videos/o_furar2.mp4",
       "legenda": "O mesmo furo, dois resultados: um detector mostra o que tem por dentro. Manda para quem vai pendurar quadro.\n\n#curiosidades #vocesabia #casa #obra #reforma",
       "status": "agendado",
-      "agendado_para": "2026-11-23T22:57:00-03:00",
+      "agendado_para": "2026-11-23T22:28:00-03:00",
       "formato": "F6-curto",
       "gancho": "Esse furo na parede alaga a casa",
       "lote": "lote6"
@@ -433,7 +526,7 @@
       "video": "videos/o_raio2.mp4",
       "legenda": "O raio procura o caminho mais fácil até o chão. Chame um profissional para instalar para-raios. Manda para quem mora em área de tempestade.\n\n#curiosidades #vocesabia #raio #casa #seguranca",
       "status": "agendado",
-      "agendado_para": "2026-11-23T23:26:00-03:00",
+      "agendado_para": "2026-11-23T22:57:00-03:00",
       "formato": "F6-curto",
       "gancho": "Um raio cai na sua casa. E agora?",
       "lote": "lote6"
@@ -444,7 +537,7 @@
       "video": "videos/o_lampada.mp4",
       "legenda": "Apagar a luz por pouco tempo não gasta mais energia, é mito. Manda para quem deixa a luz acesa.\n\n#curiosidades #vocesabia #energia #casa #mito",
       "status": "agendado",
-      "agendado_para": "2026-11-23T23:55:00-03:00",
+      "agendado_para": "2026-11-23T23:26:00-03:00",
       "formato": "F6-curto",
       "gancho": "Apagar a luz gasta mais energia?",
       "lote": "lote6"
@@ -455,7 +548,7 @@
       "video": "videos/o_elevador.mp4",
       "legenda": "O elevador tem freio que não depende do cabo. Manda para quem tem medo de elevador.\n\n#curiosidades #vocesabia #elevador #engenharia #seguranca",
       "status": "agendado",
-      "agendado_para": "2026-11-24T00:01:00-03:00",
+      "agendado_para": "2026-11-23T23:55:00-03:00",
       "formato": "F6-curto",
       "gancho": "O cabo do elevador arrebenta. E ele cai?",
       "lote": "lote6"
@@ -466,7 +559,7 @@
       "video": "videos/o_lajeferro.mp4",
       "legenda": "Concreto aguenta ser apertado, mas não esticado. O ferro resolve. Manda para quem vai fazer uma laje.\n\n#curiosidades #vocesabia #construcao #concreto #engenharia",
       "status": "agendado",
-      "agendado_para": "2026-11-24T00:31:00-03:00",
+      "agendado_para": "2026-11-24T00:01:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que a laje precisa de ferro dentro?",
       "lote": "lote6"
@@ -477,7 +570,7 @@
       "video": "videos/o_pia.mp4",
       "legenda": "O furinho da pia evita enchente e ajuda a água a escoar. Manda para quem nunca reparou.\n\n#curiosidades #vocesabia #casa #cozinha #banheiro",
       "status": "agendado",
-      "agendado_para": "2026-11-24T01:01:00-03:00",
+      "agendado_para": "2026-11-24T00:31:00-03:00",
       "formato": "F6-curto",
       "gancho": "Para que serve o furinho da pia?",
       "lote": "lote6"
@@ -488,7 +581,7 @@
       "video": "videos/o_brita.mp4",
       "legenda": "A brita do trilho segura o trem e escoa a água. Manda para quem já se perguntou isso.\n\n#curiosidades #vocesabia #trem #engenharia #cidade",
       "status": "agendado",
-      "agendado_para": "2026-11-24T01:31:00-03:00",
+      "agendado_para": "2026-11-24T01:01:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que tem pedra no meio dos trilhos?",
       "lote": "lote6"
@@ -499,7 +592,7 @@
       "video": "videos/o_vaosporta.mp4",
       "legenda": "O vão embaixo da porta deixa o ar entrar e evita mofo. Manda para quem vai reformar o banheiro.\n\n#curiosidades #vocesabia #banheiro #casa #mofo",
       "status": "agendado",
-      "agendado_para": "2026-11-24T02:01:00-03:00",
+      "agendado_para": "2026-11-24T01:31:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que a porta do banheiro tem vão embaixo?",
       "lote": "lote6"
@@ -510,7 +603,7 @@
       "video": "videos/o_prediobalanca.mp4",
       "legenda": "O prédio alto balança de propósito, com ajuda de uma bola de aço. Manda para quem mora em apartamento alto.\n\n#curiosidades #vocesabia #predio #engenharia #vento",
       "status": "agendado",
-      "agendado_para": "2026-11-24T02:31:00-03:00",
+      "agendado_para": "2026-11-24T02:01:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que prédios altos balançam?",
       "lote": "lote6"
@@ -521,7 +614,7 @@
       "video": "videos/o_vaso.mp4",
       "legenda": "A água parada no vaso segura o cheiro do esgoto. Manda para quem nunca pensou nisso.\n\n#curiosidades #vocesabia #banheiro #casa #saneamento",
       "status": "agendado",
-      "agendado_para": "2026-11-24T06:30:00-03:00",
+      "agendado_para": "2026-11-24T02:31:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o vaso sempre tem água parada?",
       "lote": "lote6"
@@ -532,7 +625,7 @@
       "video": "videos/o_pontetum.mp4",
       "legenda": "O tum-tum da ponte é a junta de dilatação. Manda para quem atravessa ponte todo dia.\n\n#curiosidades #vocesabia #ponte #engenharia #cidade",
       "status": "agendado",
-      "agendado_para": "2026-11-24T07:13:00-03:00",
+      "agendado_para": "2026-11-24T06:30:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que a ponte faz tum-tum?",
       "lote": "lote6"
@@ -543,7 +636,7 @@
       "video": "videos/o_tatil.mp4",
       "legenda": "O piso tátil tem linhas para seguir e bolinhas para alertar. Nunca estacione em cima. Manda para quem estaciona na calçada.\n\n#curiosidades #vocesabia #acessibilidade #cidade #calcada",
       "status": "agendado",
-      "agendado_para": "2026-11-24T07:56:00-03:00",
+      "agendado_para": "2026-11-24T07:13:00-03:00",
       "formato": "F6-curto",
       "gancho": "Esse chão amarelo com relevo guia quem não enxerga",
       "lote": "lote6"
@@ -554,7 +647,7 @@
       "video": "videos/o_geladeira.mp4",
       "legenda": "O barulho da geladeira é o compressor trabalhando. Manda para quem ouve a geladeira de madrugada.\n\n#curiosidades #vocesabia #geladeira #casa #energia",
       "status": "agendado",
-      "agendado_para": "2026-11-24T08:39:00-03:00",
+      "agendado_para": "2026-11-24T07:56:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que a geladeira faz barulho?",
       "lote": "lote6"
@@ -565,7 +658,7 @@
       "video": "videos/o_chuveiroseco.mp4",
       "legenda": "Chuveiro elétrico sem água queima a resistência. Manda para quem mora de aluguel.\n\n#curiosidades #vocesabia #chuveiro #eletrica #casa",
       "status": "agendado",
-      "agendado_para": "2026-11-24T09:22:00-03:00",
+      "agendado_para": "2026-11-24T08:39:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o chuveiro queima se ligar sem água?",
       "lote": "lote6"
@@ -576,7 +669,7 @@
       "video": "videos/o_espelho.mp4",
       "legenda": "O espelho embaça porque o vapor vira gotinhas na superfície fria. Manda para quem tem espelho no banheiro.\n\n#curiosidades #vocesabia #banheiro #casa #fisica",
       "status": "agendado",
-      "agendado_para": "2026-11-24T10:05:00-03:00",
+      "agendado_para": "2026-11-24T09:22:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o espelho do banheiro embaça?",
       "lote": "lote6"
@@ -587,7 +680,7 @@
       "video": "videos/o_wifi.mp4",
       "legenda": "Concreto e metal bloqueiam o Wi-Fi. Mude o roteador de lugar. Manda para quem vive sem sinal.\n\n#curiosidades #vocesabia #wifi #casa #internet #tecnologia",
       "status": "agendado",
-      "agendado_para": "2026-11-24T10:48:00-03:00",
+      "agendado_para": "2026-11-24T10:05:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o Wi-Fi some atrás da parede?",
       "lote": "lote6"
@@ -598,7 +691,7 @@
       "video": "videos/o_trovao.mp4",
       "legenda": "A luz viaja muito mais rápido que o som, e dá para contar a distância. Manda para quem tem medo de trovão.\n\n#curiosidades #vocesabia #raio #trovao #fisica",
       "status": "agendado",
-      "agendado_para": "2026-11-24T11:31:00-03:00",
+      "agendado_para": "2026-11-24T10:48:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o raio vem antes do trovão?",
       "lote": "lote6"
@@ -609,7 +702,7 @@
       "video": "videos/o_panelapressao.mp4",
       "legenda": "A pressão faz a água ferver em temperatura maior e a comida cozinha rápido. Manda para quem tem panela de pressão.\n\n#curiosidades #vocesabia #cozinha #fisica #casa",
       "status": "agendado",
-      "agendado_para": "2026-11-24T12:14:00-03:00",
+      "agendado_para": "2026-11-24T11:31:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que a panela de pressão cozinha mais rápido?",
       "lote": "lote6"
@@ -620,7 +713,7 @@
       "video": "videos/o_celularnoite.mp4",
       "legenda": "Carregar de noite não estraga a bateria, o celular para de carregar sozinho. Manda para quem carrega de madrugada.\n\n#curiosidades #vocesabia #celular #bateria #tecnologia #mito",
       "status": "agendado",
-      "agendado_para": "2026-11-24T12:57:00-03:00",
+      "agendado_para": "2026-11-24T12:14:00-03:00",
       "formato": "F6-curto",
       "gancho": "Carregar o celular a noite estraga a bateria?",
       "lote": "lote6"
@@ -631,7 +724,7 @@
       "video": "videos/o_gelo.mp4",
       "legenda": "Gelo direto na queimadura pode piorar. O certo é água fria corrente. Manda para quem cozinha.\n\n#curiosidades #vocesabia #saude #queimadura #mito",
       "status": "agendado",
-      "agendado_para": "2026-11-24T13:40:00-03:00",
+      "agendado_para": "2026-11-24T12:57:00-03:00",
       "formato": "F6-curto",
       "gancho": "Gelo na queimadura ajuda?",
       "lote": "lote6"
@@ -642,7 +735,7 @@
       "video": "videos/o_microondas.mp4",
       "legenda": "O micro-ondas não deixa a comida radioativa, ele só agita a água dentro dela. Manda para quem tem medo.\n\n#curiosidades #vocesabia #microondas #cozinha #fisica #mito",
       "status": "agendado",
-      "agendado_para": "2026-11-24T14:23:00-03:00",
+      "agendado_para": "2026-11-24T13:40:00-03:00",
       "formato": "F6-curto",
       "gancho": "O micro-ondas deixa a comida radioativa?",
       "lote": "lote6"
@@ -653,87 +746,10 @@
       "video": "videos/o_disjuntorcai.mp4",
       "legenda": "O disjuntor desarma para proteger o fio de esquentar. Manda para quem liga tudo na mesma tomada.\n\n#curiosidades #vocesabia #eletrica #casa #seguranca",
       "status": "agendado",
-      "agendado_para": "2026-11-24T15:06:00-03:00",
+      "agendado_para": "2026-11-24T14:23:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o disjuntor desarma sozinho?",
       "lote": "lote6"
-    },
-    {
-      "id": "o_ar18",
-      "tipo": "reel",
-      "video": "videos/o_ar18.mp4",
-      "legenda": "Ar em 18 graus não gela mais rápido, só gasta mais. Manda para quem faz isso.\n\n#mito #curiosidades #vocesabia #arcondicionado #dicas",
-      "status": "agendado",
-      "agendado_para": "2026-11-24T15:49:00-03:00",
-      "formato": "F5-mito",
-      "gancho": "Ar-condicionado em 18 graus gela mais rápido?",
-      "lote": "lote5"
-    },
-    {
-      "id": "o_barba",
-      "tipo": "reel",
-      "video": "videos/o_barba.mp4",
-      "legenda": "Raspar não engrossa o pelo, e a explicação é simples. Manda para quem acredita nisso.\n\n#mito #curiosidades #vocesabia #barba #dicas",
-      "status": "agendado",
-      "agendado_para": "2026-11-24T16:32:00-03:00",
-      "formato": "F5-mito",
-      "gancho": "Raspar a barba engrossa o pelo?",
-      "lote": "lote5"
-    },
-    {
-      "id": "o_cerebro",
-      "tipo": "reel",
-      "video": "videos/o_cerebro.mp4",
-      "legenda": "Você usa o cérebro inteiro, até dormindo. Manda para quem acredita nos 10%.\n\n#mito #curiosidades #vocesabia #cerebro #dicas",
-      "status": "agendado",
-      "agendado_para": "2026-11-24T17:15:00-03:00",
-      "formato": "F5-mito",
-      "gancho": "Você usa só 10% do cérebro?",
-      "lote": "lote5"
-    },
-    {
-      "id": "o_dedos",
-      "tipo": "reel",
-      "video": "videos/o_dedos.mp4",
-      "legenda": "Estalar os dedos não causa artrite. O estalo é uma bolha. Manda para quem estala.\n\n#mito #curiosidades #vocesabia #curiosidades #dicas",
-      "status": "agendado",
-      "agendado_para": "2026-11-24T17:58:00-03:00",
-      "formato": "F5-mito",
-      "gancho": "Estalar os dedos causa artrite?",
-      "lote": "lote5"
-    },
-    {
-      "id": "o_motor",
-      "tipo": "reel",
-      "video": "videos/o_motor.mp4",
-      "legenda": "Esquentar o motor parado só gasta combustível. Manda para quem faz isso.\n\n#mito #curiosidades #vocesabia #carros #dicas",
-      "status": "agendado",
-      "agendado_para": "2026-11-24T18:41:00-03:00",
-      "formato": "F5-mito",
-      "gancho": "Precisa esquentar o motor com o carro parado?",
-      "lote": "lote5"
-    },
-    {
-      "id": "o_raio",
-      "tipo": "reel",
-      "video": "videos/o_raio.mp4",
-      "legenda": "O Empire State leva cerca de 20 raios por ano. Manda para quem repete esse mito.\n\n#mito #curiosidades #vocesabia #raio #dicas",
-      "status": "agendado",
-      "agendado_para": "2026-11-24T19:24:00-03:00",
-      "formato": "F5-mito",
-      "gancho": "Raio nunca cai duas vezes no mesmo lugar?",
-      "lote": "lote5"
-    },
-    {
-      "id": "o_mofo",
-      "tipo": "reel",
-      "video": "videos/o_mofo.mp4",
-      "legenda": "Pintar por cima do mofo não resolve. Manda para quem tem mofo na parede.\n\n#mofo #construcao #obra #casa #umidade",
-      "status": "agendado",
-      "agendado_para": "2026-11-24T20:07:00-03:00",
-      "formato": "F3-longo",
-      "gancho": "Por que o mofo da parede sempre volta?",
-      "lote": "lote4"
     },
     {
       "id": "o_furar",
@@ -741,7 +757,7 @@
       "video": "videos/o_furar.mp4",
       "legenda": "Antes de furar a parede, veja isso. Manda para quem vai pendurar um quadro.\n\n#parede #construcao #obra #casa #reforma",
       "status": "agendado",
-      "agendado_para": "2026-11-24T20:50:00-03:00",
+      "agendado_para": "2026-11-24T15:06:00-03:00",
       "formato": "F3-longo",
       "gancho": "Nunca fure a parede sem ver isso",
       "lote": "lote4"
@@ -752,7 +768,7 @@
       "video": "videos/o_rachadura.mp4",
       "legenda": "Parede que racha tem um motivo. Manda para quem construiu ou vai construir.\n\n#rachadura #construcao #obra #casa #parede",
       "status": "agendado",
-      "agendado_para": "2026-11-24T21:33:00-03:00",
+      "agendado_para": "2026-11-24T15:49:00-03:00",
       "formato": "F3-longo",
       "gancho": "Por que a parede racha?",
       "lote": "lote4"
@@ -763,7 +779,7 @@
       "video": "videos/o_goteira.mp4",
       "legenda": "Laje que goteja quase sempre tem o mesmo erro. Manda para quem tem laje.\n\n#goteira #laje #construcao #obra #casa",
       "status": "agendado",
-      "agendado_para": "2026-11-24T22:16:00-03:00",
+      "agendado_para": "2026-11-24T16:32:00-03:00",
       "formato": "F3-longo",
       "gancho": "Por que a laje goteja?",
       "lote": "lote4"
@@ -774,7 +790,7 @@
       "video": "videos/o_disjuntor.mp4",
       "legenda": "Fio fino demais pode pegar fogo dentro da parede. Manda para quem vai reformar.\n\n#eletrica #construcao #obra #casa #seguranca",
       "status": "agendado",
-      "agendado_para": "2026-11-24T22:59:00-03:00",
+      "agendado_para": "2026-11-24T17:15:00-03:00",
       "formato": "F3-longo",
       "gancho": "Por que o fio esquenta na parede?",
       "lote": "lote4"
@@ -785,7 +801,7 @@
       "video": "videos/corte-09-quintal.mp4",
       "legenda": "Quintal que alaga tem solução simples. Manda para quem vive com lama em casa.\n\n#quintal #construcao #obra #casa #engenharia",
       "status": "agendado",
-      "agendado_para": "2026-11-25T00:01:00-03:00",
+      "agendado_para": "2026-11-24T17:58:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE O QUINTAL VIRA LAMA TODA CHUVA?",
       "lote": "lote3"
@@ -796,7 +812,7 @@
       "video": "videos/corte-10-cisterna.mp4",
       "legenda": "Água da chuva guardada do jeito certo. Comenta CISTERNA se você quer uma.\n\n#cisterna #construcao #obra #casa #engenharia",
       "status": "agendado",
-      "agendado_para": "2026-11-25T00:31:00-03:00",
+      "agendado_para": "2026-11-24T18:41:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "COMO A CISTERNA NÃO CONTAMINA?",
       "lote": "lote3"
@@ -807,7 +823,7 @@
       "video": "videos/corte-11-horta.mp4",
       "legenda": "Horta que não pega quase sempre tem um erro no canteiro. Manda para quem planta.\n\n#horta #construcao #obra #casa #engenharia",
       "status": "agendado",
-      "agendado_para": "2026-11-25T01:01:00-03:00",
+      "agendado_para": "2026-11-24T19:24:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE A HORTA NÃO VAI PARA FRENTE?",
       "lote": "lote3"
@@ -818,7 +834,7 @@
       "video": "videos/corte-12-galinheiro.mp4",
       "legenda": "Esse erro de construção custa a vida das galinhas. Manda para quem cria.\n\n#galinheiro #construcao #obra #casa #engenharia",
       "status": "agendado",
-      "agendado_para": "2026-11-25T01:31:00-03:00",
+      "agendado_para": "2026-11-24T20:07:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "O ERRO QUE MATA GALINHA NO GALINHEIRO",
       "lote": "lote3"
@@ -829,7 +845,7 @@
       "video": "videos/corte-13-piso.mp4",
       "legenda": "Piso que estufa tem causa por baixo. Manda para quem vai reformar.\n\n#piso #construcao #obra #casa #engenharia",
       "status": "agendado",
-      "agendado_para": "2026-11-25T02:01:00-03:00",
+      "agendado_para": "2026-11-24T20:50:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE O PISO SOLTA E ESTUFA?",
       "lote": "lote3"
@@ -840,7 +856,7 @@
       "video": "videos/corte-14-deck.mp4",
       "legenda": "Deck de madeira que dura pouco tem erro na base. Comenta DECK se você quer um.\n\n#deck #construcao #obra #casa #engenharia",
       "status": "agendado",
-      "agendado_para": "2026-11-25T02:31:00-03:00",
+      "agendado_para": "2026-11-24T21:33:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE O DECK APODRECE EM UM ANO?",
       "lote": "lote3"
@@ -851,7 +867,7 @@
       "video": "videos/corte-15-pergolado.mp4",
       "legenda": "Pergolado cai por falta de uma peça. Manda para quem quer fazer um.\n\n#pergolado #construcao #obra #casa #engenharia",
       "status": "agendado",
-      "agendado_para": "2026-11-25T06:30:00-03:00",
+      "agendado_para": "2026-11-24T22:16:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE O PERGOLADO CAI COM O VENTO?",
       "lote": "lote3"
@@ -862,7 +878,7 @@
       "video": "videos/corte-16-arvore.mp4",
       "legenda": "A raiz empurra o muro sem ninguém ver. Manda para quem tem árvore no quintal.\n\n#arvore #construcao #obra #casa #engenharia",
       "status": "agendado",
-      "agendado_para": "2026-11-25T07:13:00-03:00",
+      "agendado_para": "2026-11-24T22:59:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE A ÁRVORE DERRUBA O MURO?",
       "lote": "lote3"
@@ -873,7 +889,7 @@
       "video": "videos/corte-17-cerca.mp4",
       "legenda": "Cerca entortada tem erro no mourão. Manda para quem tem terreno.\n\n#cerca #construcao #obra #casa #engenharia",
       "status": "agendado",
-      "agendado_para": "2026-11-25T07:56:00-03:00",
+      "agendado_para": "2026-11-25T00:01:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE A CERCA DO TERRENO ENTORTA?",
       "lote": "lote3"
@@ -884,7 +900,7 @@
       "video": "videos/corte-18-poco.mp4",
       "legenda": "Poço sem proteção contamina a família toda. Manda para quem tem poço.\n\n#poco #construcao #obra #casa #engenharia",
       "status": "agendado",
-      "agendado_para": "2026-11-25T08:39:00-03:00",
+      "agendado_para": "2026-11-25T00:31:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "O QUE A ÁGUA DO POÇO ESCONDE?",
       "lote": "lote3"
@@ -895,7 +911,7 @@
       "video": "videos/corte-19-solar.mp4",
       "legenda": "Placa solar mal instalada rende metade. Comenta SOLAR se você quer saber.\n\n#energiasolar #construcao #obra #casa #engenharia",
       "status": "agendado",
-      "agendado_para": "2026-11-25T09:22:00-03:00",
+      "agendado_para": "2026-11-25T01:01:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE A PLACA SOLAR NÃO PAGA A CONTA?",
       "lote": "lote3"
@@ -906,7 +922,7 @@
       "video": "videos/corte-20-ponte.mp4",
       "legenda": "Ponte de madeira quebra por um detalhe da estrutura. Manda para quem tem sítio.\n\n#ponte #construcao #obra #casa #engenharia",
       "status": "agendado",
-      "agendado_para": "2026-11-25T10:05:00-03:00",
+      "agendado_para": "2026-11-25T01:31:00-03:00",
       "formato": "F1-corte-curto",
       "gancho": "POR QUE A PONTE DE MADEIRA QUEBRA NO MEIO?",
       "lote": "lote3"
