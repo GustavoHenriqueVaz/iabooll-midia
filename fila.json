@@ -804,11 +804,13 @@
       "tipo": "reel",
       "video": "videos/o_lajeferro.mp4",
       "legenda": "Concreto aguenta ser apertado, mas não esticado. O ferro resolve. Manda para quem vai fazer uma laje.\n\n#curiosidades #vocesabia #construcao #concreto #engenharia",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T02:01:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que a laje precisa de ferro dentro?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18113217137226131",
+      "publicado_em": "2026-11-24T02:02:45-03:00"
     },
     {
       "id": "o_pia",
