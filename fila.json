@@ -752,11 +752,13 @@
       "tipo": "reel",
       "video": "videos/o_furar2.mp4",
       "legenda": "O mesmo furo, dois resultados: um detector mostra o que tem por dentro. Manda para quem vai pendurar quadro.\n\n#curiosidades #vocesabia #casa #obra #reforma",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T00:01:00-03:00",
       "formato": "F6-curto",
       "gancho": "Esse furo na parede alaga a casa",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "17900501316412860",
+      "publicado_em": "2026-11-24T00:02:47-03:00"
     },
     {
       "id": "o_raio2",
