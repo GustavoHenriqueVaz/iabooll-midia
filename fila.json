@@ -869,11 +869,13 @@
       "tipo": "reel",
       "video": "videos/o_vaso.mp4",
       "legenda": "A água parada no vaso segura o cheiro do esgoto. Manda para quem nunca pensou nisso.\n\n#curiosidades #vocesabia #banheiro #casa #saneamento",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T08:39:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o vaso sempre tem água parada?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18143752090618033",
+      "publicado_em": "2026-11-24T08:39:32-03:00"
     },
     {
       "id": "o_pontetum",
