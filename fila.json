@@ -895,11 +895,13 @@
       "tipo": "reel",
       "video": "videos/o_tatil.mp4",
       "legenda": "O piso tátil tem linhas para seguir e bolinhas para alertar. Nunca estacione em cima. Manda para quem estaciona na calçada.\n\n#curiosidades #vocesabia #acessibilidade #cidade #calcada",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T10:05:00-03:00",
       "formato": "F6-curto",
       "gancho": "Esse chão amarelo com relevo guia quem não enxerga",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18645649216061346",
+      "publicado_em": "2026-11-24T10:06:45-03:00"
     },
     {
       "id": "o_geladeira",
