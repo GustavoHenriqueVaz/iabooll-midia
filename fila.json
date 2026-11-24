@@ -817,11 +817,13 @@
       "tipo": "reel",
       "video": "videos/o_pia.mp4",
       "legenda": "O furinho da pia evita enchente e ajuda a água a escoar. Manda para quem nunca reparou.\n\n#curiosidades #vocesabia #casa #cozinha #banheiro",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T02:31:00-03:00",
       "formato": "F6-curto",
       "gancho": "Para que serve o furinho da pia?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "17928839871438501",
+      "publicado_em": "2026-11-24T02:32:07-03:00"
     },
     {
       "id": "o_brita",
