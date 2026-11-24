@@ -908,11 +908,13 @@
       "tipo": "reel",
       "video": "videos/o_geladeira.mp4",
       "legenda": "O barulho da geladeira é o compressor trabalhando. Manda para quem ouve a geladeira de madrugada.\n\n#curiosidades #vocesabia #geladeira #casa #energia",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T10:48:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que a geladeira faz barulho?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18080367158754193",
+      "publicado_em": "2026-11-24T10:48:44-03:00"
     },
     {
       "id": "o_chuveiroseco",
