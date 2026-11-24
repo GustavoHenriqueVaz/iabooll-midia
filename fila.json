@@ -843,11 +843,13 @@
       "tipo": "reel",
       "video": "videos/o_vaosporta.mp4",
       "legenda": "O vão embaixo da porta deixa o ar entrar e evita mofo. Manda para quem vai reformar o banheiro.\n\n#curiosidades #vocesabia #banheiro #casa #mofo",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T07:13:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que a porta do banheiro tem vão embaixo?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18122336479989431",
+      "publicado_em": "2026-11-24T07:14:21-03:00"
     },
     {
       "id": "o_prediobalanca",
