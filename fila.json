@@ -973,11 +973,13 @@
       "tipo": "reel",
       "video": "videos/o_panelapressao.mp4",
       "legenda": "A pressão faz a água ferver em temperatura maior e a comida cozinha rápido. Manda para quem tem panela de pressão.\n\n#curiosidades #vocesabia #cozinha #fisica #casa",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T14:23:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que a panela de pressão cozinha mais rápido?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18185789836430248",
+      "publicado_em": "2026-11-24T14:24:19-03:00"
     },
     {
       "id": "o_celularnoite",
