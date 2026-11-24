@@ -882,11 +882,13 @@
       "tipo": "reel",
       "video": "videos/o_pontetum.mp4",
       "legenda": "O tum-tum da ponte é a junta de dilatação. Manda para quem atravessa ponte todo dia.\n\n#curiosidades #vocesabia #ponte #engenharia #cidade",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T09:22:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que a ponte faz tum-tum?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18112380134260099",
+      "publicado_em": "2026-11-24T09:23:09-03:00"
     },
     {
       "id": "o_tatil",
