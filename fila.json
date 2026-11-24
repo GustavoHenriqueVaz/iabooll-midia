@@ -960,11 +960,13 @@
       "tipo": "reel",
       "video": "videos/o_trovao.mp4",
       "legenda": "A luz viaja muito mais rápido que o som, e dá para contar a distância. Manda para quem tem medo de trovão.\n\n#curiosidades #vocesabia #raio #trovao #fisica",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T13:40:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o raio vem antes do trovão?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18026748473715520",
+      "publicado_em": "2026-11-24T13:41:00-03:00"
     },
     {
       "id": "o_panelapressao",
