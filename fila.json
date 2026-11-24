@@ -921,11 +921,13 @@
       "tipo": "reel",
       "video": "videos/o_chuveiroseco.mp4",
       "legenda": "Chuveiro elétrico sem água queima a resistência. Manda para quem mora de aluguel.\n\n#curiosidades #vocesabia #chuveiro #eletrica #casa",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T11:31:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o chuveiro queima se ligar sem água?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "17908105404656212",
+      "publicado_em": "2026-11-24T11:32:26-03:00"
     },
     {
       "id": "o_espelho",
