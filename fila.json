@@ -726,11 +726,13 @@
       "tipo": "reel",
       "video": "videos/o_japao.mp4",
       "legenda": "No Japão o prédio balança de propósito para não cair no terremoto. Manda para quem curte Japão.\n\n#curiosidades #vocesabia #japao #engenharia #terremoto",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T22:16:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o Japão constrói prédios que balançam?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18001058600829034",
+      "publicado_em": "2026-11-23T22:17:24-03:00"
     },
     {
       "id": "o_fossa2",
