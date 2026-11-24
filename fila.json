@@ -947,11 +947,13 @@
       "tipo": "reel",
       "video": "videos/o_wifi.mp4",
       "legenda": "Concreto e metal bloqueiam o Wi-Fi. Mude o roteador de lugar. Manda para quem vive sem sinal.\n\n#curiosidades #vocesabia #wifi #casa #internet #tecnologia",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T12:57:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o Wi-Fi some atrás da parede?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18028707281936334",
+      "publicado_em": "2026-11-24T12:57:42-03:00"
     },
     {
       "id": "o_trovao",
