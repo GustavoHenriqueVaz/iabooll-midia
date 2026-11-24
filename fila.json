@@ -934,11 +934,13 @@
       "tipo": "reel",
       "video": "videos/o_espelho.mp4",
       "legenda": "O espelho embaça porque o vapor vira gotinhas na superfície fria. Manda para quem tem espelho no banheiro.\n\n#curiosidades #vocesabia #banheiro #casa #fisica",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T12:14:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que o espelho do banheiro embaça?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18122533696983288",
+      "publicado_em": "2026-11-24T12:15:39-03:00"
     },
     {
       "id": "o_wifi",
