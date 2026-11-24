@@ -687,33 +687,39 @@
       "tipo": "reel",
       "video": "videos/o_transformador.mp4",
       "legenda": "O cilindro no poste baixa a tensão da rua para a da sua casa. Manda para quem mora perto de poste.\n\n#curiosidades #vocesabia #eletrica #cidade #poste #energia",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T20:07:00-03:00",
       "formato": "F6-curto",
       "gancho": "O que é o cilindro cinza no poste?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18152738944563363",
+      "publicado_em": "2026-11-23T22:14:20-03:00"
     },
     {
       "id": "o_paredebanheiro",
       "tipo": "reel",
       "video": "videos/o_paredebanheiro.mp4",
       "legenda": "Cano, esgoto e fios na mesma parede. Descubra o caminho antes de furar. Manda para quem vai pendurar prateleira.\n\n#curiosidades #vocesabia #banheiro #casa #obra",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T20:50:00-03:00",
       "formato": "F6-curto",
       "gancho": "O que tem dentro da parede do banheiro?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "17905418553372018",
+      "publicado_em": "2026-11-23T22:14:55-03:00"
     },
     {
       "id": "o_botijaoliquido",
       "tipo": "reel",
       "video": "videos/o_botijaoliquido.mp4",
       "legenda": "O gás do botijão está líquido sob pressão e vira gás quando você abre o fogão. Manda para quem tem botijão.\n\n#curiosidades #vocesabia #gas #cozinha #casa #fisica",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-23T21:33:00-03:00",
       "formato": "F6-curto",
       "gancho": "O gás do botijão é líquido?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "17935141008424887",
+      "publicado_em": "2026-11-23T22:15:31-03:00"
     },
     {
       "id": "o_japao",
