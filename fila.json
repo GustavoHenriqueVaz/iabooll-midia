@@ -791,11 +791,13 @@
       "tipo": "reel",
       "video": "videos/o_elevador.mp4",
       "legenda": "O elevador tem freio que não depende do cabo. Manda para quem tem medo de elevador.\n\n#curiosidades #vocesabia #elevador #engenharia #seguranca",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T01:31:00-03:00",
       "formato": "F6-curto",
       "gancho": "O cabo do elevador arrebenta. E ele cai?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "17945050983389824",
+      "publicado_em": "2026-11-24T01:32:34-03:00"
     },
     {
       "id": "o_lajeferro",
