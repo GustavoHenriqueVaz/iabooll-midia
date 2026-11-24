@@ -778,11 +778,13 @@
       "tipo": "reel",
       "video": "videos/o_lampada.mp4",
       "legenda": "Apagar a luz por pouco tempo não gasta mais energia, é mito. Manda para quem deixa a luz acesa.\n\n#curiosidades #vocesabia #energia #casa #mito",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T01:01:00-03:00",
       "formato": "F6-curto",
       "gancho": "Apagar a luz gasta mais energia?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18119704799080934",
+      "publicado_em": "2026-11-24T01:02:25-03:00"
     },
     {
       "id": "o_elevador",
