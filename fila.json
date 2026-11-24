@@ -856,11 +856,13 @@
       "tipo": "reel",
       "video": "videos/o_prediobalanca.mp4",
       "legenda": "O prédio alto balança de propósito, com ajuda de uma bola de aço. Manda para quem mora em apartamento alto.\n\n#curiosidades #vocesabia #predio #engenharia #vento",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T07:56:00-03:00",
       "formato": "F6-curto",
       "gancho": "Por que prédios altos balançam?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18109204997573717",
+      "publicado_em": "2026-11-24T07:57:37-03:00"
     },
     {
       "id": "o_vaso",
