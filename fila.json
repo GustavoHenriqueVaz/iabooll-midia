@@ -765,11 +765,13 @@
       "tipo": "reel",
       "video": "videos/o_raio2.mp4",
       "legenda": "O raio procura o caminho mais fácil até o chão. Chame um profissional para instalar para-raios. Manda para quem mora em área de tempestade.\n\n#curiosidades #vocesabia #raio #casa #seguranca",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-24T00:31:00-03:00",
       "formato": "F6-curto",
       "gancho": "Um raio cai na sua casa. E agora?",
-      "lote": "lote6"
+      "lote": "lote6",
+      "instagram_id": "18005954808011582",
+      "publicado_em": "2026-11-24T00:32:15-03:00"
     },
     {
       "id": "o_lampada",
