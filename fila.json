@@ -1540,11 +1540,13 @@
       "tipo": "reel",
       "video": "videos/p_03represa.mp4",
       "legenda": "Tinha tanto concreto que ia levar mais de um século para esfriar, e a saída foi gelar por dentro. Manda para quem acha que concreto é só misturar e pronto.\n\n#curiosidades #vocesabia #engenharia #represa #concreto",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-25T12:30:00-03:00",
       "formato": "F7-autoral",
       "gancho": "A represa que não conseguia esfriar",
-      "lote": "autoral"
+      "lote": "autoral",
+      "instagram_id": "18130220783303176",
+      "publicado_em": "2026-11-25T12:31:17-03:00"
     },
     {
       "id": "p_04eclusa",
