@@ -1553,11 +1553,13 @@
       "tipo": "reel",
       "video": "videos/p_04eclusa.mp4",
       "legenda": "Um navio gigante sobe vinte e seis metros sem motor de elevador, só com a água descendo do lago. Manda para quem acha que navio só anda no plano.\n\n#curiosidades #vocesabia #engenharia #navio #panama",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-25T18:00:00-03:00",
       "formato": "F7-autoral",
       "gancho": "Como um navio sobe uma montanha",
-      "lote": "autoral"
+      "lote": "autoral",
+      "instagram_id": "18407534065203701",
+      "publicado_em": "2026-11-25T18:02:54-03:00"
     },
     {
       "id": "h_maquiavel",
