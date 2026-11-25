@@ -1574,10 +1574,12 @@
       "tipo": "reel",
       "video": "videos/h_maquiavel_v2.mp4",
       "legenda": "Preso, torturado e falido, ele escreveu o livro que a Igreja proibiu por séculos. Manda para quem ainda acha que ser bonzinho basta.\n\n#maquiavel #oprincipe #historia #livros #poder",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-25T11:58:16-03:00",
       "formato": "F9-historia",
-      "gancho": "Preso e torturado em 1513"
+      "gancho": "Preso e torturado em 1513",
+      "instagram_id": "18163162147501541",
+      "publicado_em": "2026-11-25T12:00:36-03:00"
     }
   ]
 }
