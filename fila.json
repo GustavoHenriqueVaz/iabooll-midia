@@ -1527,11 +1527,13 @@
       "tipo": "reel",
       "video": "videos/p_01janela.mp4",
       "legenda": "Um canto quadrado custou caro em 1954, e é por isso que a sua janela é redonda. Manda para quem sempre briga pela janela.\n\n#curiosidades #vocesabia #aviao #engenharia #historia",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-25T08:00:00-03:00",
       "formato": "F7-autoral",
       "gancho": "Por que a janela do avião é redonda?",
-      "lote": "autoral"
+      "lote": "autoral",
+      "instagram_id": "18578813038074910",
+      "publicado_em": "2026-11-25T08:01:23-03:00"
     },
     {
       "id": "p_03represa",
