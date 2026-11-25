@@ -1562,10 +1562,12 @@
       "tipo": "reel",
       "video": "videos/h_maquiavel.mp4",
       "legenda": "Ele foi preso, torturado e perdeu tudo. Depois escreveu o livro que a Igreja proibiu. Manda para quem ainda acha que ser bonzinho basta.\n\n#maquiavel #oprincipe #historia #livros #poder",
-      "status": "agendado",
+      "status": "publicado",
       "agendado_para": "2026-11-25T11:42:24-03:00",
       "formato": "F9-historia",
-      "gancho": "Preso e torturado em 1513"
+      "gancho": "Preso e torturado em 1513",
+      "instagram_id": "18182820358450013",
+      "publicado_em": "2026-11-25T11:44:24-03:00"
     }
   ]
 }
